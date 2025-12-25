@@ -59,7 +59,7 @@ This will show your permanent server URL (e.g., `http://100.64.0.1:3005`).
 
 ### 4. Install the Android App
 
-Install `HappySelfHosted-Release.apk` on your Android device.
+Download the APK from [Releases](https://github.com/sylvan-lang/happy-self-hosted/releases) and install on your Android device.
 
 Or build from source:
 ```bash
