@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+happy-app/android/app/build/
+happy-app/android/.gradle/
+happy-app/ios/build/
+happy-app/.expo/
+
+# Environment files
+.env
+.env.local
+happy-server/.env
+
+# Logs
+*.log
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+
+# Large files (download from Releases)
+*.apk
